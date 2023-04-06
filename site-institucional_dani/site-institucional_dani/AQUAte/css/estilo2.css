@@ -117,6 +117,12 @@ p span {
     justify-content: center;
 }
 
+.footer .container {
+    justify-content: center;
+    height: 150px;
+}
+
+
 .form {
     background-color: beige;
     display: flex;
